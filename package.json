@@ -2,10 +2,6 @@
 , "version" : "0.1.0"
 , "description" : "A basic recursive file system watcher for node.js"
 , "author" : "Liam McLennan <liam.mclennan@gmail.com>"
-, "devDependencies": {
-        "mocha": "0.14.1"
-      , "should": "0.6.0"
-    }
 , "main" : "lib/watchn.js"
 , "engines" : { "node" : "0.6" }
 }
